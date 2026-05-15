@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "849604581219",
+    "firebase_url": "https://madhusiri-e610f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "madhusiri-e610f",
+    "storage_bucket": "madhusiri-e610f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849604581219:android:d627a2d8999a467bb66556",
+        "android_client_info": {
+          "package_name": "com.example.madhusiri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6hRwZ883MZUsgydzktH04ufwDP2eyjD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849604581219:android:457f2c796b17bb59b66556",
+        "android_client_info": {
+          "package_name": "com.madhusiri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6hRwZ883MZUsgydzktH04ufwDP2eyjD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
